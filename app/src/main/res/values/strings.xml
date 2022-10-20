@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JLP-android</string>
+    <string name="generic_error">Something went wrong, try again</string>
+</resources>
